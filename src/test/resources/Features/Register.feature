@@ -7,6 +7,6 @@ Feature: Register
     And click the My Account section and click the Register button
     When i provide the firstname, lastname, email, telephone, password, passwordConfirm
     |firstname|lastname|email|telephone|password|passwordConfirm|
-    |yuvaraj|raj|yuv3000@gmail.com|7531594860|789456|789456|
+    |yuvaraj|raj|yuv3120@gmail.com|1007456980|789456|789456|
     And i click the privacy policy and click the continue
     Then I should see the Registered successfully result
